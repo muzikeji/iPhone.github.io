@@ -81,7 +81,8 @@ li a:hover:not(.active) {
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
-<p>
+
+<h1 class="text_line"> 
 
 <a>微信号:</a>
 <script type="text/javascript"> 
