@@ -54,11 +54,7 @@ li a:hover:not(.active) {
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
   <li><a class="active"  href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
   <li><a href="https://mzljjkj.github.io/.github.io/">关于</a></li>
-
-</ul>
-
-
-<h1 class="text_line"> ✆联系作者</h1>
+<h1>✆联系作者</h1>
 
 
 <a href="mailto: 56794501@qq.com">
@@ -98,5 +94,4 @@ alert("微信号已复制好，打开微信贴粘。");
 id="biao1">Miss-you_</textarea> 
 <input type="button" onClick="copyUrl2()" value="点击复制" />  <b><a href="weixin://
 " target="_blank">打开微信</a></b> 
-<p> <b><a href="weixin://
-" target="_blank">打开微信</a></b>
+
