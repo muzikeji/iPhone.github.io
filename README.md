@@ -49,10 +49,12 @@ li a:hover:not(.active) {
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="100%" height="auto"></a>
 <ul>
+
   <li><a href="http://jiejingkeji.top">主页</a></li>
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
-  <li><a class="active"href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
+  <li><a class="active"  href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
   <li><a href="https://mzljjkj.github.io/.github.io/">关于</a></li>
+
 </ul>
 
 
