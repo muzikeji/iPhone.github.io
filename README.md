@@ -82,7 +82,7 @@ li a:hover:not(.active) {
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
 <p>
-<p>
+
 <a>微信号:</a>
 <script type="text/javascript"> 
 function copyUrl2() 
@@ -90,7 +90,7 @@ function copyUrl2()
 var Url2=document.getElementById("biao1"); 
 Url2.select(); // 选择对象 
 document.execCommand("Copy"); // 执行浏览器复制命令 
-alert("已复制好，可贴粘。"); 
+alert("微信号已复制好，打开微信贴粘。"); 
 } 
 </script> 
 <textarea cols="10" rows="1" 
