@@ -100,5 +100,5 @@ alert("微信号已复制好，打开微信贴粘。");
 </script> 
 <textarea cols="10" rows="1" 
 id="biao1">Miss-you_</textarea> 
-<input type="button" onClick="copyUrl2()" value="点击复制" />  <b><a href="weixin://
-" target="_blank">打开微信</a></b> 
+<input type="button" onClick="copyUrl2()" value="点击复制" /> <a href="weixin://
+" target="_blank">打开微信</a> 
