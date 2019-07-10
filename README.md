@@ -1,5 +1,4 @@
 
-
 <html>
 <head>
 <meta charset="utf-8">
@@ -9,7 +8,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000;
+    background-color: #333;
 }
 
 li {
@@ -43,12 +42,22 @@ li a:hover:not(.active) {
 	clear:both;
 	margin-bottom:2px;
 }
+
+div.ex
+{
+background-color: yellow;
+width:auto;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+}
+
 </style>
 </head>
+
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="100%" height="auto"></a>
 <ul>
-
   <li><a href="http://jiejingkeji.top">主页</a></li>
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
   <li><a class="active"  href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
@@ -77,10 +86,13 @@ li a:hover:not(.active) {
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
-</p>
-<div>
+
+<h1 class="text_line"> </h1>
+
+
+<div class="ex">
 <h4 class="text_line"> 
-<a>微信号:</a>
+<h3>微信号:</a>
 <script type="text/javascript"> 
 function copyUrl2() 
 { 
