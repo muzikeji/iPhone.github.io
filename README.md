@@ -93,3 +93,34 @@ alert("微信号已复制好，打开微信贴粘。");
 id="biao1">Miss-you_</textarea> 
 <input type="button" onClick="copyUrl2()" value="点击复制" /> <a href="weixin://
 " target="_blank">打开微信</a> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #text {
+            position: absolute;
+            top: -100px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+    <input type="text" id="text" value="你居然敢复制我！！" style="width: 300px;" >
+    <button onclick="copyText()">复制</button>
+</div>
+</body>
+<script type="text/javascript">
+    function copyText() {
+        text = 'aa';
+        var input = document.getElementById("text");
+        input.select(); // 选中文本
+        document.execCommand("copy"); // 执行浏览器复制命令
+        alert("复制成功");
+    }
+</script>
+</html>
+
+
