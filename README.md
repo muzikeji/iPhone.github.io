@@ -62,8 +62,7 @@ margin:0px;
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
   <li><a class="active"  href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
   <li><a href="https://mzljjkj.github.io/.github.io/">关于</a></li>
-<p>
-<h1>✆联系作者</h1>
+
 
 
 <a href="mailto: 56794501@qq.com">
@@ -86,10 +85,6 @@ margin:0px;
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
-
-<h1 class="text_line"> </h1>
-
-
 <div class="ex">
 <h4 class="text_line"> 
 <h3>微信号:</a>
