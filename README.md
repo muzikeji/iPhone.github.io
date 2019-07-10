@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #000;
 }
 
 li {
@@ -45,7 +45,6 @@ li a:hover:not(.active) {
 }
 </style>
 </head>
-
 <a href="https://jiejinghe.com/users/6563404841">
 <img  border="0" src="https://i.loli.net/2019/07/09/5d247f187c97b64789.png" alt="木子李" width="100%" height="auto"></a>
 <ul>
@@ -79,3 +78,17 @@ li a:hover:not(.active) {
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
 <div>
 <h4 class="text_line"> 
+<a>微信号:</a>
+<script type="text/javascript"> 
+function copyUrl2() 
+{ 
+var Url2=document.getElementById("biao1"); 
+Url2.select(); // 选择对象 
+document.execCommand("Copy"); // 执行浏览器复制命令 
+alert("微信号已复制好，打开微信贴粘。"); 
+} 
+</script> 
+<textarea cols="10" rows="1" 
+id="biao1">Miss-you_</textarea> 
+<input type="button" onClick="copyUrl2()" value="点击复制" />  <b><a href="weixin://
+" target="_blank">打开微信</a></b> 
