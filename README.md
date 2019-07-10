@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #000;
 }
 
 li {
@@ -53,6 +53,7 @@ li a:hover:not(.active) {
   <li><a href="https://jiejinghe.com/search">捷径搜索</a></li>
   <li><a class="active"  href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
   <li><a href="https://mzljjkj.github.io/.github.io/">关于</a></li>
+<p>
 <h1>✆联系作者</h1>
 
 
@@ -76,6 +77,7 @@ li a:hover:not(.active) {
 
 <a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
+</p>
 <div>
 <h4 class="text_line"> 
 <a>微信号:</a>
