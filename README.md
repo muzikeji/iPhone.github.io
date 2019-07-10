@@ -93,7 +93,10 @@ alert("微信号已复制好，打开微信贴粘。");
 id="biao1">Miss-you_</textarea> 
 <input type="button" onClick="copyUrl2()" value="点击复制" /> <a href="weixin://
 " target="_blank">打开微信</a> 
-    <style>
+   <html lang="en">
+<head>
+    <meta charset="UTF-8">
+ <style>
         #text {
             position: absolute;
             top: -100px;
