@@ -93,51 +93,17 @@ alert("微信号已复制好，打开微信贴粘。");
 id="biao1">Miss-you_</textarea> 
 <input type="button" onClick="copyUrl2()" value="点击复制" /> <a href="weixin://
 " target="_blank">打开微信</a> 
-
-   <html lang="en">
-    <head>
-    <meta charset="UTF-8">
- <style>
-        #text {
-            position: absolute;
-            top: -100px;
-        }
-    </style>
-</head>
-<body>
-
-<div class="wrapper">
-    <input type="text" id="text1" value="苹果捷径科技" style="width: 300px;" >
-    <button onclick="copyText1()">点击复制公众号</button>
-</div>
-</body>
-<script type="text/javascript">
-    function copyText() {
-        text = 'aa';
-        var input = document.getElementById("text");
-        input.select(); // 选中文本
-        document.execCommand("copy"); // 执行浏览器复制命令
-        alert("公众号复制成功，请打开微信搜索关注！");
-    }
-</script>
-
-<body>
-
-<div class="wrapper">
-    <input type="text" id="text1" value="Miss-you_" style="width: 300px;" >
-    <button onclick="copyText1()">点击复制微信号</button>
-</div>
-</body>
-<script type="text/javascript">
-    function copyText1() {
-        text = 'aa';
-        var input = document.getElementById("text");
-        input.select(); // 选中文本
-        document.execCommand("copy"); // 执行浏览器复制命令
-        alert("微信号码复制成功，请打开微信添加");
-    }
-</script>
-
-</html>
-
-
+<h5>微信公众号:
+<script type="text/javascript"> 
+function copyUrl3() 
+{ 
+var Url3=document.getElementById("biao1"); 
+Url3.select(); // 选择对象 
+document.execCommand("Copy"); // 执行浏览器复制命令 
+alert("微信公众号已复制好，打开微信贴粘。"); 
+} 
+</script> 
+<textarea cols="10" rows="1" 
+id="biao1">苹果捷径科技</textarea> 
+<input type="button" onClick="copyUrl3()" value="点击复制" /> <a href="weixin://
+" target="_blank">打开微信</a> 
