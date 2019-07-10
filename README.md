@@ -97,13 +97,13 @@ id="biao1">Miss-you_</textarea>
 <script type="text/javascript"> 
 function copyUrl3() 
 { 
-var Url3=document.getElementById("biao1"); 
+var Url3=document.getElementById("biao2"); 
 Url3.select(); // 选择对象 
 document.execCommand("Copy"); // 执行浏览器复制命令 
 alert("微信公众号已复制好，打开微信贴粘。"); 
 } 
 </script> 
 <textarea cols="10" rows="1" 
-id="biao1">苹果捷径科技</textarea> 
+id="biao2">苹果捷径科技</textarea> 
 <input type="button" onClick="copyUrl3()" value="点击复制" /> <a href="weixin://
 " target="_blank">打开微信</a> 
