@@ -93,8 +93,9 @@ alert("微信号已复制好，打开微信贴粘。");
 id="biao1">Miss-you_</textarea> 
 <input type="button" onClick="copyUrl2()" value="点击复制" /> <a href="weixin://
 " target="_blank">打开微信</a> 
+
    <html lang="en">
-<head>
+    <head>
     <meta charset="UTF-8">
  <style>
         #text {
@@ -119,6 +120,8 @@ id="biao1">Miss-you_</textarea>
         alert("公众号复制成功，请打开微信搜索关注！");
     }
 </script>
+
+<body>
 
 <div class="wrapper">
     <input type="text" id="text1" value="Miss-you_" style="width: 300px;" >
