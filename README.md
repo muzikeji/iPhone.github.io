@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <style>
+h1 { display:none; }
 ul {
     list-style-type: none;
     margin: 0;
