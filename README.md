@@ -75,7 +75,7 @@ li a:hover:not(.active) {
 <a href="mqq://im/chat?chat_type=wpa&uin=56794501&version=1&src_type=web">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/07/5d2190199d6b528735.png" alt="木子李" width="50" height="auto"></a>
 
-<a href="https://jq.qq.com/?_wv=1027&k=5T9JYqT">
+<a href="https://jq.qq.com/?_wv=1027&k=56roi29">
 <img  class="thumbnail 1"  src="https://i.loli.net/2019/07/08/5d22c9528370440157.jpeg" alt="木子李" width="50" height="auto"></a>
 
 <h5 class="text_line"> 
