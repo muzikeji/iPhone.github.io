@@ -75,7 +75,7 @@ div.desc {
   <li><a href="http://muzikeji.cn/">主页</a></li>
   <li><a href="https://jiejinghe.com/search">搜索</a></li>
   <li><a href="http://jiejingkeji.top">关于捷径</a></li>
-  <li><a class="active"  href="https://mzljjkj.github.io/iPhone.github.io/">联系</a></li>
+  <li><a class="active"  href="https://xn--83tu1g.top/?nsukey=m6JcPZyyaIFnlzYPh%2B3gDDlMODhX%2FdoEimrqwQ6hSj7Hc9gw3fDkI2tSd0L4TOU%2FgwGhhYVwNX0cgiAqKnzFQqC4QD9bM%2BG5Hr6VrFXBiPuN%2FLeGa96de%2BrihhzPFihfj5FaJFVUN%2B8bQaaHYjZVhY9jO7frNz%2FefAmGw5BZI8MpW02LF%2Fuzicif%2BHunfAmWeu0kBY7pNXC%2B%2Btzv2l0N0Q%3D%3D">联系</a></li>
  </ul>
 
 
