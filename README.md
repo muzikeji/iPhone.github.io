@@ -29,7 +29,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #4682b4;
+    background-color: #1c02f4;
 }
 
  .thumbnail
